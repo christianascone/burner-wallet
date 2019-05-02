@@ -69,3 +69,4 @@ yarn-error.log*
 
 # Mine
 node-env
+ganache-cli

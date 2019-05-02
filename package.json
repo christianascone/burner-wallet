@@ -23,7 +23,7 @@
     "ethjs-ens": "^2.0.1",
     "express": "^4.16.4",
     "fs": "0.0.1-security",
-    "ganache-cli": "^6.4.2",
+    "ganache-cli": "^6.4.3",
     "helmet": "^3.14.0",
     "i18next": "^13.1.5",
     "i18next-browser-languagedetector": "^2.2.4",
